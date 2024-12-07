@@ -1,7 +1,11 @@
 # 🛠️ Linux Maintenance Script
 No need to RUN - {UPDATE, UPGRADE &amp; AUTO-REMOVE} command separately.
 
-This Bash script is your one-stop solution for keeping your Linux system **updated**, **upgraded**, and **cleaned** in a more organized and user-friendly way. 🚀
+This Bash script is your one-stop solution for keeping your Linux system **UPDATED**, **UPGRADED**, and **CLEANED** in a more organized and user-friendly way. 🚀
+
+![Linux Penguin](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNjZGRhZGtzajFoYTd4dWRjaDg4NXJkZm9yczE4OWNxcTZ4dWhubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UGWpLb1b4KddktMz0y/giphy.gif) ![Linux Penguin](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNjZGRhZGtzajFoYTd4dWRjaDg4NXJkZm9yczE4OWNxcTZ4dWhubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UGWpLb1b4KddktMz0y/giphy.gif)
+
+
 
 ---
 
