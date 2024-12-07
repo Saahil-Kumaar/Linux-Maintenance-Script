@@ -86,4 +86,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Thanks to all Linux enthusiasts for keeping the community awesome! 💻✨
 ```
 
-Feel free to replace `https://github.com/your-username/linux-maintenance-script.git` with your actual repository URL once it's ready.
+Feel free to replace `https://github.com/your-username/Linux-Maintenance-Script.git` with your actual repository URL once it's ready.
