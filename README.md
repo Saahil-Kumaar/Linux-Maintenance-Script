@@ -18,8 +18,8 @@ This Bash script is your one-stop solution for keeping your Linux system **UPDAT
 
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/your-username/linux-maintenance-script.git
-   cd linux-maintenance-script
+   git clone https://github.com/your-username/Linux-Maintenance-Script.git
+   cd Linux-Maintenance-Script
    ```
 
 2. Make the script executable:  
