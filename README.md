@@ -3,9 +3,7 @@ No need to RUN - {UPDATE, UPGRADE &amp; AUTO-REMOVE} command separately.
 
 This Bash script is your one-stop solution for keeping your Linux system **UPDATED**, **UPGRADED**, and **CLEANED** in a more organized and user-friendly way. 🚀
 
-![Linux Penguin](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNjZGRhZGtzajFoYTd4dWRjaDg4NXJkZm9yczE4OWNxcTZ4dWhubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UGWpLb1b4KddktMz0y/giphy.gif)
-
-
+![Linux Penguin](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNjZGRhZGtzajFoYTd4dWRjaDg4NXJkZm9yczE4OWNxcTZ4dWhubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UGWpLb1b4KddktMz0y/giphy.gif) ![LINUX](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZvbWRleXh0bnBmeWpvZXk0dG0zODJqbm03M2d5aGU0NzE1dzFtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif)
 
 ---
 
