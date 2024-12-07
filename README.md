@@ -32,6 +32,8 @@ This Bash script is your one-stop solution for keeping your Linux system **UPDAT
    ./maintenance.sh
    ```
 
+4. **Do make sure that you saved maintenance.sh file in HOME folder.**
+
 ---
 
 ## 🖼️ Output Example
